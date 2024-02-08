@@ -331,8 +331,8 @@ section
 }
 .logo
 {
-	width: 180px;
-	height: 41px;
+	width: 275px;
+	height: 75px;
 	border: solid 2px #ffffff;
 	text-align: center;
 }
@@ -1166,7 +1166,7 @@ input[type=number]::-webkit-outer-spin-button
 .footer_logo > div:first-of-type
 {
 	width: 400px;
-	height: 74px;
+	height: 204px;
 	border: solid 3px #393939;
 	font-size: 43.32px;
 	font-weight: 600;
