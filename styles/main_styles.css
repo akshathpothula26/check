@@ -327,22 +327,45 @@ section
 }
 .header.scrolled .header_content
 {
-	height: 90px;
+	height: 130px;
 }
-.logo
+.logo_ebony
 {
 	width: 275px;
 	height: 75px;
 	border: solid 2px #ffffff;
 	text-align: center;
+	font-size: large;
+	font-size: 44px;
+	font-weight: 600;
+	font-family: roboto;
+	background-color: #0f0d0d;
+	
+	
+	border-radius: 10px;
+	
+	
+}
+.logo
+{
+	width: 235px;
+	height: 80px;
+	border: solid 2px #ffffff;
+	text-align: center;
+	border-radius: 15px;
 }
 .logo a
 {
 	display: block;
-	font-size: 24px;
+	font-size: 44px;
 	font-weight: 600;
 	color: #ffffff;
 	line-height: 37px;
+}
+.inter_logo{
+	color: white;
+	font-size: 18px;
+
 }
 .home-banner {
 	position: relative; }
